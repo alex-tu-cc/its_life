@@ -9,11 +9,11 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://hitchhiker.ma" # the base hostname & protocol for your site
 
 author:
-  fullname: Motaquillah Maddane
+  fullname: alex-tu-cc
   googleplus: https://www.google.com/+MotaquillahMaddane
-  github: kronik3r
-  twitter: electrik_frog
-  # disqus: your_disqus_forum_shortname
+  github: alex-tu-cc
+  twitter: NA
+  disqus: alex-tu-cc
 
 # google_analytics: 'UA-XXXXXXXX-X'
 
