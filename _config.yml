@@ -15,6 +15,9 @@ author:
   twitter: NA
   disqus: alex-tu-cc
 
+port: 4001
+timezone: Asia/Taipei
+
 # google_analytics: 'UA-XXXXXXXX-X'
 
 # Syntax highlighting
