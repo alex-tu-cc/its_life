@@ -94,9 +94,13 @@ total 保費4050元
 [錢難賺 保險別亂買]: http://www.books.com.tw/products/0010702305
 [ptt 版上推薦保單規劃]: https://www.ptt.cc/bbs/Insurance/M.1458144574.A.5E0.html
 [保單建檢-template]:  https://goo.gl/6WVnSG
+
 ## [注]
 
 ---
 [1] 如果附約停賣或改版可能也買不到了，且這种情況還滿常見的  
 [2] 產險官方規定不能保証續保 (有錯請指正)
 
+*to be continued ....*   
+* [有體況者的保單選擇分享](https://alex-tu-cc.github.io/its_life/finance/2016/11/12/insurance-journey_candidates.html)
+* [有體況者的保單選擇分享 續1](https://alex-tu-cc.github.io/its_life/finance/2016/11/12/insurance-journey_candidates_c1.html)
