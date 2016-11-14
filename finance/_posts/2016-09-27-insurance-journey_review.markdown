@@ -102,5 +102,6 @@ total 保費4050元
 [2] 產險官方規定不能保証續保 (有錯請指正)
 
 *to be continued ....*   
-* [有體況者的保單選擇分享](https://alex-tu-cc.github.io/its_life/finance/2016/11/12/insurance-journey_candidates.html)
-* [有體況者的保單選擇分享 續1](https://alex-tu-cc.github.io/its_life/finance/2016/11/12/insurance-journey_candidates_c1.html)
+---
+* [有體況者的保單選擇分享]({{ site.baseurl }}{% post_url finance/2016-11-12-insurance-journey_candidates %})   
+* [有體況者的保單選擇分享 續1]({{ site.baseurl }}{% post_url finance/2016-11-12-insurance-journey_candidates_c1 %})  
