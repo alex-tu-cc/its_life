@@ -7,7 +7,7 @@
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="{{ title }}" />
 <meta name="twitter:description" content="{{ description }}" />
-<meta name="twitter:image" content="{{ site.url }}{{ cover }}" />
+<meta name="twitter:image" content="{{ site.baseurl }}{{ cover }}" />
 
 <!-- Google plus -->
 <meta name="author" content="{{ site.author.googleplus }}">
@@ -18,5 +18,5 @@
 <meta property="og:type" content="article">
 <meta property="og:title" content="{{ title }}">
 <meta property="og:description" content="{{ description }}">
-<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl }}">
 <meta property="og:site_name" content="{{ site.title }}">
