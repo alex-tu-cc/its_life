@@ -1,13 +1,13 @@
 # Basic
-title: test2
-subtitle: 个人站
-description: test .....
+title: it's life
+subtitle: no subtitle
+description: 一個自言自語的地方
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: alextu
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
+avatarDesc: life/sharing
 url: "http://alex-tu-cc.github.io"
-baseurl: "/new-theme-test"
+baseurl: "/its_life"
 
 # Comment
 comment:
@@ -16,10 +16,10 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    # weibo: 5366874726 
+    github: alex-tu-cc
     # twitter: 
-    mail: leopardpan@icloud.com
+    # mail: 
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
