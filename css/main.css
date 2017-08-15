@@ -472,9 +472,11 @@ img::-moz-selection {
   }*/
 
   .post img {
-    max-width: 100%;
+    width: 500px;
     margin: 0 auto;
-    border-radius: 3px;
+    border-radius: 10px;
+    padding: 9px;
+    background:#efefef;
     text-align: center;
     display: block; }
   .post pre {
