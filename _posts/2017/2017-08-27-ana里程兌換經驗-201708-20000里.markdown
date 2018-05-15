@@ -1,0 +1,74 @@
+---
+layout: "post"
+title: "ANA里程兌換經驗_201708_20000里"
+date: "2017-08-27 21:43"
+---
+## 緣起
+之前出差加上聯名卡首刷禮，在帳戶中一直有兩萬多點放著都快忘了它的存在，最近心血來潮登入看看才突然發現有8千點快過期了!!
+當然是趕快來換~ 但因為之前沒有換過，第一次兌換也是花了我不少時間...
+主要過程中覺得麻煩的點有
+* 網上有些早期的開票分享可能無用了，因為規則改了
+* 計畫算了半天，真的去看到時後可能沒有票，或是有些地方改了
+  * ex. 國泰停飛台北-福岡
+* 想要開口停留等等划算換法，但如此同伴就不好買票了。(通常是太貴)
+* 想跟亞萬搭配但亞萬當天票沒了
+* 留下來的零頭點數(6000點)也沒什麼用，想換香草又只能訂最近幾個月的票
+
+以上，總之就是一直算/畫行程->查票->沒票的無限循環，變數真的很多。但皇天不負苦心人，最後終於給我買完了還算[滿划算的行程](http://www.gcmap.com/mapui?P=TPE-CTS-TYO-TPE)(3,507里)，趕快來寫一下記錄分享撞牆經驗，雖然等我下次換應該又改規則了，但至少可以分享給網上需要換的人當作一個參考。
+
+## 動手
+首先，剛準備要換票時，上網找了幾個熱心網友分享的換票方式，但要應該是ANA有把兌換限制從總里程改成以區域劃分，所以似乎2015之前的兌換分享是不行用的了。
+* [33000哩=商務艙,23000哩=經濟艙(東京北京)](https://www.ptt.cc/bbs/points/M.1501209157.A.40E.html)
+  * [gcmap路線图](http://www.gcmap.com/mapui?P=tpe-pek-hnd,+nrt-tpe)
+* [ANA 配合亞萬不足航段][]
+* [壓榨ANA哩程機票-下面推文開票很狂](https://www.ptt.cc/bbs/points/M.1499281783.A.F44.html)
+* [從香港開](http://www.flyasia.co/2017/03/08/ana-mileage-club-examples-best-use/)
+* 其實很多都是換環球票，就不在此篇討論了。
+
+由上面幾個文章看來ANA就是最大優勢就是在**起點區或終點區轉來轉去**，然後依規則 [[1][]] [[2][]] [[3][]], 可以在**終點外有一個停留或開口**。
+
+轉機可以到很多點去吃吃買買是沒錯，但是一來同行的人不好買，假期也不多，花太多時間在飛機上也不是我想要的(報到-搭機-領行李很花時間)。但只換單純來回又覺得太不划算，因此這次就計劃來個雙城之旅北海道-東京。
+
+首先了解一下手上的點數到底可以換到什麼?
+* 首先了解一下ANA兌換點數的規則[[1][]]知道台灣在 Zone3_Asia1
+* 從[兌換表][]上看來20000點，只能換Zone3_Asia1 到 Zone1_Japan Regular Season, 再看[聯盟兌換表][] 也只能換Japan(Zone1-A)到Zone3_Asia1 Y艙，然後都是
+  * 這邊第一個問題就是，搭機的時間點(Regular Season)是不是自已想要的，如果想去的時間是在 High Season, 那點數就不夠換 (要 23000點)
+* 如果只想[換日本國內線也可以考慮香草][香草里程兌換表]，但是因為它只開三個月內的票供選則，對長期計畫的行程較無用。
+
+
+再了解一下ANA到底有那些直飛路線:
+* [飛行航點資訊](https://www.ana.co.jp/wws/tw/ch/local/airinfo/) 裡面有分
+ * ["航線網際图"(國際線)](http://ana.innosked.com/default.aspx?lang_id=EN&region=NHINTL&origin=WWS&CONNECTION_KIND=TWN)
+   * 图上的縮寫是指城市不是機場名，要點fights list 才看得到機場名，ex. Sapporo實際停的機場是 CTS
+ * ["日本國內航線"](https://www.ana.co.jp/wws/japan/e/local/dom/airinfo/networkmap/hub.html)
+* [後來看到這個查星空聯盟的路線也不錯](http://star-alliance.innosked.com/) 因為ANA沒有的線，也是要星空的來補, ex. 台北-福岡10月前還可以坐長榮
+* 過程中也可以用 [gcmap](http://www.gcmap.com )來畫看看路線。
+
+![ana_route_international]({{ site.baseurl }}/images/2017/08/ana_route_international.png)
+
+然後決定後，就去下訂吧~
+* [ANA 里程訂票系統](https://aswbe-i.ana.co.jp/international_asw/pages/award/search/roundtrip/award_search_roundtrip_input.xhtml?CONNECTION_KIND=JPN&LANG=en)
+  * 它訂ANA的票或星空的票在同一個頁面
+  * 如果想要在終點之外多一個停留或是轉機設定就選 "multiple cities"
+  * 然後選完之後列出的機票左邊是ANA右邊是星空聯盟，基本上兩邊都可以換，但是如果換到星盟了，點數計算應該就是看[聯盟兌換表][]
+    * 我的例子是兩個表都要 20000點，所以沒差。
+
+如何順利訂到票了，他會收取一定的手續費，大約一千多吧~ 然後就可以去睡覺了 ....
+
+
+## 結論
+其實一開始我是想學"[ANA 配合亞萬不足航段][]" 的開法，開個亞萬留頭留尾，再用ANA去補頭補尾，這樣就不用再花錢買廉航，但在找ANA換 TPE-FUK 這段撞牆，找了一下才知道國泰因為投資失利10月要把那段砍了，難怪我怎麼訂都訂不到，後來才干脆先不管亞萬，反正也不知道亞萬的活動點數什麼時後下來。
+
+然後又想說如何讓另一半的機票錢最省，畢竟不能自已的換好就不管人家呀~ 還曾想換KIX-CTS * 2 然後 TPE-KIX 用廉航補，但殘唸的是，香草只開出近幾個月的票供選購，我計畫的行程是半年之後。總之想要得越多，限制就越多。
+
+以開口停留來說，亞萬的限制是比較少的，但ANA看區域不管飛行總里數，適合喜歡在日本境內轉來轉去的人。
+
+點數不夠的人，也可以考慮上網買點，現在約 0.6/ANA里
+
+[1]:https://blog.tripplus.cc/zh/15/ffptutorial-ana-2-5
+[2]:http://www.backpackers.com.tw/forum/showthread.php?t=1620685#post8435053
+[3]:https://www.ana.co.jp/wws/tw/ch/asw_common/amc/reference/tukau/award/int/zone.html
+[兌換表]:https://www.ana.co.jp/wws/tw/ch/asw_common/amc/reference/tukau/award/int/usage.html
+[聯盟兌換表]: http://www.ana.co.jp/wws/tw/ch/asw_common/amc/reference/tukau/award/tk/usage.html
+[ANA 配合亞萬不足航段]:https://www.ptt.cc/bbs/points/M.1493861262.A.164.html
+[香草里程兌換表]:https://www.ana.co.jp/wws/tw/ch/local/amc/reference/tukau/vanillaair.html
