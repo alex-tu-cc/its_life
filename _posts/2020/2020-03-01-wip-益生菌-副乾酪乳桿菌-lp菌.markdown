@@ -1,0 +1,39 @@
+---
+layout: "post"
+title: "[WIP]益生菌 - 副乾酪乳桿菌 - LP菌"
+date: "2020-03-01 16:01"
+---
+
+
+# LP33
+- [大鬍子藥房 - 我所知道的LP33](https://blog.xuite.net/b8303053/twblog/87152910-%E6%88%91%E6%89%80%E7%9F%A5%E9%81%93%E7%9A%84LP33)
+```
+Lactobacillus paracasei (副乾酪乳桿菌)
+俗稱的LP33菌(是乳酸菌桿菌，不是酵母菌喔)，為什麼叫LP33菌呢?
+```
+- [還不知道益生菌怎麼挑嗎？簡易篩選表讓你5分鐘解](https://www.biomedviews.com/%E9%82%84%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9B%8A%E7%94%9F%E8%8F%8C%E6%80%8E%E9%BA%BC%E6%8C%91%E5%97%8E%EF%BC%9F%E7%B0%A1%E6%98%93%E7%AF%A9%E9%81%B8%E8%A1%A8%E8%AE%93%E4%BD%A05%E5%88%86%E9%90%98%E8%A7%A3/)
+
+
+ - [wiki/副乾酪乳桿菌](https://zh.wikipedia.org/wiki/%E5%89%AF%E4%B9%BE%E9%85%AA%E4%B9%B3%E6%A1%BF%E8%8F%8C)
+   - LP33(Lactobacillus paracasei33)(於2002年發現)
+   - Lactobacillus paracasei BRAP-01 (LPBRAP01) (於2011年發現)
+
+- [wiki/副乾酪乳桿菌](https://en.wikipedia.org/wiki/Lactobacillus_paracasei)
+ - L. paracasei grows optimally in a temperature range between **10 and 37 °C**
+
+
+- [Studies in Natural Products Chemistry
+](https://books.google.com.tw/books?id=SG89DwAAQBAJ&pg=PA439&lpg=PA439&dq=L.+paracasei+%2233%22+grows+temperature&source=bl&ots=TMS-udqJtx&sig=ACfU3U0vWeZirSNFpdJ6rzCEUuQEm-xbyg&hl=zh-TW&sa=X&ved=2ahUKEwjIoPzB3vjnAhXUIqYKHYgJBdoQ6AEwEHoECAgQAQ#v=onepage&q=L.%20paracasei%20%2233%22%20grows%20temperature&f=false)
+ - http://i.imgur.com/HSAWS5M.png
+
+
+# LPBRAP01 or LP-BRAP01
+- [市售常見益生菌評鑑比較表(2018-10-01更新 81種產品)](https://tcellkiller.blogspot.com/2015/05/2015-04-24.html)
+
+# Doing
+- 舒肥 37 度8小時 LP33 優酪乳10% + 鮮奶
+  - 參考上面資料，為保留 LP33 的最佳活性，固定溫度在 37 度
+
+# Done
+- 電鍋用筷子卡著半開 8 小時光泉鮮奶： 成功
+![電鍋LP33優格]({{ site.baseurl }}/images/2020/03/screenshot.png)
